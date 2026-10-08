@@ -1,0 +1,5 @@
+{
+  "_说明": "复制本文件为 deepseek.local.json，把 apiKey 换成自己的。deepseek.local.json 已加入 .gitignore，不会被提交。",
+  "apiKey": "sk-在这里填你的 DeepSeek API key",
+  "model": "deepseek-chat"
+}
